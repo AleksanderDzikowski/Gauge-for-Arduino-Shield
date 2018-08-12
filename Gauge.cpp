@@ -1,3 +1,5 @@
+/*Plik zawierajacy ciała funkcji*/
+
 #if ARDUINO >= 100
 #include <Arduino.h>
 #else
