@@ -1,0 +1,26 @@
+###########################################
+# Syntax Coloring Map For Gauge
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Gauge	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+GetCurrent	KEYWORD2
+GetPower	KEYWORD2
+GetVolOpAmp	KEYWORD2
+GetNoFlipp	KEYWORD2
+GetPWM		KEYWORD2
+Voltage		KEYWORD2
+PowerHead	KEYWORD2
+NoFlippIn	KEYWORD2
+Fill_PerCent	KEYWORD2
+Current		KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
